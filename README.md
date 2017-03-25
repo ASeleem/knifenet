@@ -1,9 +1,9 @@
 # Knifenet
-<h2>is a computer networking utility for reading from and writing to network connections using TCP or UDP. </h2>
+<p>is a computer networking utility for reading from and writing to network connections using TCP or UDP. </p>
 <br />
-<h2>Its list of features includes port scanning, transferring files, and port listening, and it can be used as a backdoor.</h2>
+<p>Its list of features includes port scanning, transferring files, and port listening, and it can be used as a backdoor.</p>
 # Usage : 
-<h3>knifenet Net Tool
+<p>knifenet Net Tool
 <br />
 Usage: knifenet.py -t target_host -p port
 <br />
@@ -27,6 +27,6 @@ knifenet.py -t 192.168.0.1 -p 5555 -l -e="cat /etc/passwd"
 echo 'ABCDEFGHI' | ./knifenet.py -t 192.168.11.12 -p 135
 <br />
 <br />
-</h3>
-<h1> Enjoy ;) </h1>
+</p>
+<h4> Enjoy ;) </h4>
 
